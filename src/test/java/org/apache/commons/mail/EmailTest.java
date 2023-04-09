@@ -30,7 +30,7 @@ public class EmailTest {
 	}
 	
 	
-	//test single email
+	//test email
 	@Test
 	public void addBccTest() {
 	
